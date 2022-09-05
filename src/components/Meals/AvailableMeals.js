@@ -5,7 +5,7 @@ import classes from './AvailableMeals.module.css';
 const DUMMY_MEALS = [
   {
     id: 'm1',
-    name: ' Prasads Favorite Biriyani',
+    name: ' Prasads Family pack ',
     description: 'Finest fish and veggies from india',
     price: 22.99,
   },

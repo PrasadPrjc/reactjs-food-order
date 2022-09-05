@@ -6,7 +6,7 @@ const DUMMY_MEALS = [
   {
     id: 'm1',
     name: 'Sushi',
-    description: 'Finest fish and veggies',
+    description: 'Finest fish and veggies from india',
     price: 22.99,
   },
   {
